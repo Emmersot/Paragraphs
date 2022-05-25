@@ -8,3 +8,11 @@ p.author {
 	font-style: italic;
 	font-weight: bold;
 }
+
+h1.important {
+	font-size: xx-large;
+}
+
+.text{
+	font-style: italic;
+}
